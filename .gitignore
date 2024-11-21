@@ -44,3 +44,4 @@ tsconfig.tsbuildinfo
 uploads/*
 !uploads/.gitkeep
 db.sqlite
+img/*
