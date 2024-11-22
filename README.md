@@ -1,6 +1,6 @@
 # Instalike-API - Node.js com Express e MongoDB
 
-Uma API simples para praticar os conceitos aprendidos na imersão promovida pela ALURA. 
+Uma API simples para praticar os conceitos aprendidos na imersão promovida pela ALURA. Consiste numa API backend desenvolvida com Javascript, Node.js e MongoDB para gerenciar postagens numa rede social instalike.
 
 ## Tecnologias Utilizadas
 
